@@ -1,0 +1,1 @@
+Projectile,Basic Arrow,The default arrow,Common,0,10

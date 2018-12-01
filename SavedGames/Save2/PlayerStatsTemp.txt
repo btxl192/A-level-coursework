@@ -1,0 +1,5 @@
+Health=18
+Mana=100
+Exp=145
+Level=3
+SkillPoints=3

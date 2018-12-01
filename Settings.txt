@@ -1,0 +1,5 @@
+EnemyHealthBarsEnabled=True
+EnemyHealthNumsEnabled=True
+MinimapEnabled=True
+DisplayEnemyDamageNum=True
+MinimapZoom=5

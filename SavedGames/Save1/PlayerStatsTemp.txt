@@ -1,0 +1,5 @@
+Health=100
+Mana=100
+Exp=0
+Level=0
+SkillPoints=0

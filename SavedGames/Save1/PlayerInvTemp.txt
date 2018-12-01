@@ -1,0 +1,21 @@
+Gold=0
+Armour,Common Armour,A common piece of armour,Common,20,0
+Projectile,Common Projectile,A common arrow,Common,15,0
+Projectile,Common Projectile,A common arrow,Common,15,0
+Armour,Epic Armour,An epic piece of armour!,Epic,67,0
+Projectile,Epic Projectile,An epic arrow!,Epic,58,0
+Projectile,Epic Projectile,An epic arrow!,Epic,58,0
+Armour,Rare Armour,A rare piece of armour,Rare,37,0
+Projectile,Rare Projectile,A rare arrow,Rare,31,0
+Projectile,Rare Projectile,A rare arrow,Rare,31,0
+Projectile,Rare Projectile,A rare arrow,Rare,32,0
+Projectile,Epic Projectile,An epic arrow!,Epic,117,0
+Projectile,Common Projectile,A common arrow,Common,33,0
+Projectile,Common Projectile,A common arrow,Common,32,0
+Armour,Common Armour,A common piece of armour,Common,36,0
+Projectile,Common Projectile,A common arrow,Common,34,0
+Projectile,Common Projectile,A common arrow,Common,34,0
+Projectile,Epic Projectile,An epic arrow!,Epic,115,0
+Projectile,Rare Projectile,A rare arrow,Rare,64,0
+Armour,Common Armour,A common piece of armour,Common,41,0
+Armour,Rare Armour,A rare piece of armour,Rare,79,0

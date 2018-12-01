@@ -1,0 +1,12 @@
+Gold=602
+Item,Treasure,Enemies may drop items and equipment,Common,250
+HealingItem,Healing Potion,Restores 50 hp,Common,5,3,False,50,0
+HealingItem,Mana Potion,Restores 50 mp,Common,5,3,False,0,50
+Projectile,Rare Projectile,A rare arrow,Rare,63,8
+Projectile,Rare Projectile,A rare arrow,Rare,64,9
+Armour,Epic Armour,An epic piece of armour!,Epic,144,265
+Projectile,Rare Projectile,A rare arrow,Rare,62,24
+Projectile,Epic Projectile,An epic arrow!,Epic,117,34
+Projectile,Rare Projectile,A rare arrow,Rare,63,27
+Armour,Rare Armour,A rare piece of armour,Rare,74,144
+Projectile,Rare Projectile,A rare arrow,Rare,64,28

@@ -1,0 +1,2 @@
+Projectile,Basic Arrow,The default arrow,Common,0,10
+Armour,Epic Armour,An epic piece of armour!,Epic,134,69

@@ -1,0 +1,35 @@
+E:\coursework\Temp\bin\Debug\Assembly-CSharp.dll
+E:\coursework\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\coursework\Temp\bin\Debug\UnityEditor.dll
+E:\coursework\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\coursework\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.UI.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.VR.dll
+E:\coursework\Temp\bin\Debug\Mono.Cecil.dll
+E:\coursework\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\coursework\Temp\bin\Debug\Unity.DataContract.dll
+E:\coursework\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\coursework\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\coursework\Temp\bin\Debug\Unity.CecilTools.dll
+E:\coursework\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\coursework\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\coursework\Temp\bin\Debug\UnityEngine.xml
+E:\coursework\Temp\bin\Debug\UnityEditor.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.UI.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\coursework\Temp\bin\Debug\UnityEngine.VR.xml
+E:\coursework\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\coursework\obj\Debug\Assembly-CSharp.dll
+E:\coursework\obj\Debug\Assembly-CSharp.pdb
+E:\Computing NEA\coursework\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Computing NEA\coursework\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Computing NEA\coursework\obj\Debug\Assembly-CSharp.dll
+E:\Computing NEA\coursework\obj\Debug\Assembly-CSharp.pdb
